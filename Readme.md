@@ -5,7 +5,7 @@ It achieves self-healing behavior using **Auto Scaling Groups**, **health checks
 
 ## Architecture
 
-![architecture](images/Architecture.png)
+![architecture](Images/Architecture.png)
 
 ## How the System Works..?
 1. The user sends an HTTP request to the Application Load Balancer (ALB) DNS endpoint.
